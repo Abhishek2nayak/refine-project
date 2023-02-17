@@ -32,7 +32,7 @@ function MyApp({ Component, pageProps }: AppProps): JSX.Element {
             edit: AntdInferencer,
             show: AntdInferencer,
             create: AntdInferencer,
-            canDelete: true,
+          canDelete : true,
           },
         ]}
       >
